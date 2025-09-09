@@ -23,7 +23,6 @@ Designed and implemented a **relational database system** modeled on Netflix’s
 - Wrote SQL queries to answer business questions (e.g., subscription trends, top-watched shows, production contracts).  
 - Proposed system extensions to reduce null values and improve analytics capabilities.  
 **Tech:** SQL, SSMS, Database Design  
-📄 [Read the Full Project Report (PDF)](BADM352_Report.pdf)
 
 ### [Google Colab Analytics Project](#) 
 Conducted **data analysis and visualization** using Python in Google Colab.  
