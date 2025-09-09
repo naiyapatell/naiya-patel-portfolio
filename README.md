@@ -31,6 +31,13 @@ Conducted **data analysis and visualization** using Python in Google Colab.
 - Practiced statistical methods and Python libraries for business analytics.  
 **Tech:** Python, Pandas, Matplotlib, Scikit-learn, Google Colab    
 
+### [HR Satisfaction & Productivity Dashboard](tableau-hr-satisfaction-productivity)  
+Designed an **interactive Tableau dashboard** to analyze employee satisfaction and productivity across departments, roles, salaries, and joining dates.  
+- Visualized trends using line graphs, treemaps, and bar charts to uncover performance patterns.  
+- Identified key insights such as role-based productivity and department-level satisfaction rates.  
+- Published dashboard to Tableau Public for live exploration and sharing.  
+**Tech:** Tableau, Excel, Data Visualization, HR Analytics  
+
 ---
 
 ## 📫 Contact  
