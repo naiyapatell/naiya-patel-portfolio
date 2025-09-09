@@ -1,7 +1,7 @@
 # 👩‍💻 Naiya Patel | Portfolio
 
 ## 📌 About Me  
-I’m a **Senior at the University of Illinois Urbana-Champaign**, pursuing a **B.S. in Information Systems** with minors in **Computer Science** and **Business Analytics** (GPA: 4.0/4.0).  
+I’m a **Senior at the University of Illinois Urbana-Champaign**, pursuing a **B.S. in Information Systems** with minors in **Computer Science** and **Business Analytics**.  
 I bring experience as a **Data Analyst Intern at Munich Re**, **Salesforce Administrator Intern at MarketMaker CRE**, and **Co-Founder of Miradha Collections**.  
 I’m passionate about leveraging **data, technology, and business insights** to design solutions that drive efficiency, improve decision-making, and deliver measurable results.  
 
