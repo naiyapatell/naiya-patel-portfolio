@@ -31,5 +31,5 @@ It demonstrates skills in **data visualization, storytelling, and HR analytics**
 ---
 
 ## 🌐 View Dashboard  
-You can explore the full dashboard on [Tableau Public](https://tinyurl.com/59e92z5h).
+You can explore the full dashboard on [Tableau Public]([https://tinyurl.com/59e92z5h](https://tinyurl.com/bdz2m8b7)).
 
