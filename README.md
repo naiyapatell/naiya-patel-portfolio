@@ -24,7 +24,7 @@ Designed and implemented a **relational database system** modeled on Netflix’s
 - Proposed system extensions to reduce null values and improve analytics capabilities.  
 **Tech:** SQL, SSMS, Database Design  
 
-### [Google Colab Analytics Project]  
+### [Google Colab Analytics Project](#) 
 Conducted **data analysis and visualization** using Python in Google Colab.  
 - Applied data cleaning, transformation, and exploratory analysis techniques.  
 - Built visualizations to uncover patterns and communicate insights.  
