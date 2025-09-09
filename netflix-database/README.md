@@ -42,6 +42,5 @@ JOIN Movies m ON mc.movie_ID = m.movie_ID
 JOIN Production_Company pc ON mc.company_ID = pc.company_ID
 ORDER BY mc.contract_end_date DESC
 LIMIT 1;
-
+```
 📄 [Read the Full Project Report (PDF)](BADM352_Report.pdf)
-
