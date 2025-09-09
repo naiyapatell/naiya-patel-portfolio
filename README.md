@@ -17,19 +17,19 @@ I’m passionate about leveraging **data, technology, and business insights** to
 
 ## 📂 Projects  
 
-### [Netflix Database Design & Management](#)  
+### [Netflix Database Design & Management](netflix-database)  
 Designed and implemented a **relational database system** modeled on Netflix’s platform.  
 - Created 12+ normalized tables with primary/foreign keys and junction tables.  
 - Wrote SQL queries to answer business questions (e.g., subscription trends, top-watched shows, production contracts).  
 - Proposed system extensions to reduce null values and improve analytics capabilities.  
-**Tech:** SQL, SSMS, Database Design  
+**Tech:** MySQL, Database Design, SQL Queries  
 
-### [Google Colab Analytics Project](#) 
+### [Student Performance Analytics](student-performance-analytics)  
 Conducted **data analysis and visualization** using Python in Google Colab.  
 - Applied data cleaning, transformation, and exploratory analysis techniques.  
 - Built visualizations to uncover patterns and communicate insights.  
 - Practiced statistical methods and Python libraries for business analytics.  
-**Tech:** Python, Pandas, Matplotlib, Google Colab  
+**Tech:** Python, Pandas, Matplotlib, Scikit-learn, Google Colab    
 
 ---
 
