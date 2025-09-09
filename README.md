@@ -17,25 +17,19 @@ I’m passionate about leveraging **data, technology, and business insights** to
 
 ## 📂 Projects  
 
-### [Power BI Data Modeling & Dashboards](#)  
-Built a **Power BI data model** to reconcile policy data across multiple systems (Qlik, Majesco, and manual records).  
-Designed automated dashboards and KPI frameworks, improving reporting accuracy by **35%** and accelerating underwriting decisions.  
-**Tech:** Power BI, SQL, Power Query  
+### [Netflix Database Design & Management](#)  
+Designed and implemented a **relational database system** modeled on Netflix’s platform.  
+- Created 12+ normalized tables with primary/foreign keys and junction tables.  
+- Wrote SQL queries to answer business questions (e.g., subscription trends, top-watched shows, production contracts).  
+- Proposed system extensions to reduce null values and improve analytics capabilities.  
+**Tech:** SQL, SSMS, Database Design  
 
-### [Salesforce Automation & Reporting](#)  
-Customized Salesforce with **10+ objects, 25+ fields, and automation workflows** to reduce manual errors by 40%.  
-Developed **dashboards and reports** used by management to accelerate data-driven decisions by 30%.  
-**Tech:** Salesforce, Data Migration, Workflow Automation  
-
-### [E-commerce Business: Miradha Collections](#)  
-Co-founded an online jewelry business, developing a secure **e-commerce website** and managing product listings, payments, and customer reviews.  
-Analyzed sales and customer trends to improve inventory planning, leading to a **200% increase in revenue**.  
-**Tech:** HTML, Excel, Social Media Analytics, Website Management  
-
-### [Academic Projects](#)  
-Projects completed through coursework in **Database Design, Business Analytics, and Information Systems Analysis**.  
-Examples include database schema design, predictive analytics models, and business intelligence reporting.  
-**Tech:** SQL, Python, Tableau, System Design  
+### [Google Colab Analytics Project]  
+Conducted **data analysis and visualization** using Python in Google Colab.  
+- Applied data cleaning, transformation, and exploratory analysis techniques.  
+- Built visualizations to uncover patterns and communicate insights.  
+- Practiced statistical methods and Python libraries for business analytics.  
+**Tech:** Python, Pandas, Matplotlib, Google Colab  
 
 ---
 
