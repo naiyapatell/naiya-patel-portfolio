@@ -50,8 +50,8 @@ Many university students lose personal belongings across campus with no reliable
 
 | File/Folder | Description |
 |-------------|-------------|
-| `prototype/` | App prototype screenshots (10 screens) |
-| `Project_Deliverable_1.pdf` | Full project report including requirements, feasibility analysis, and methodology |
+| `Prototype.pdf` | App prototype screenshots (10 screens) |
+| `Project Phase 1.pdf` | Full project report including requirements, feasibility analysis, and methodology |
 
 ---
 
